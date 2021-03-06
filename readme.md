@@ -228,7 +228,4 @@ mnist http://yann.lecun.com/exdb/mnist/
 numpy http://cs231n.github.io/python-numpy-tutorial/
 
 
-
-验证码识别群625706505
-
-![](img/tensorflow-CNN-share.jpeg)
+# 请勿用于非法用途，请遵守相关法律法规。
